@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Janu - Futuristic Voice Assistant",
+  "description": "Janu is a witty, charming, and expressive female AI companion powered by Gemini Live API for real-time audio-to-audio conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
